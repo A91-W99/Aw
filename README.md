@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Aaww91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Aaww91 Adel
 
-<!---
-Aaww91/Aaww91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a great desire to learn programming,
+
+ but I need someone 
+
+to guide me the beginning of the right path...🔥
+
+✨ I will not be disappointed and I will fulfill
+
+my dream 😻 
+of becoming a programmer. 💌
+
